@@ -5,7 +5,10 @@
 1 4
 12345
 */
+
+
 /*
+homework
     *
    **
   * *
@@ -21,7 +24,7 @@
 int main()
 {
 	int i, j;
-	int n = 10;
+	int n = 20;
 	for(i = 1;i <= n;i++)
 	{
 		for(j = 1;j <= i;j++)
