@@ -5,6 +5,7 @@ void save(int);
 void display();
 int search(int);
 void del(int);//prototype
+
 int main()
 {
 	
