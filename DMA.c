@@ -9,7 +9,7 @@ int main()
 	int size;
 	printf("Enter the size of the array: ");
 	scanf("%d", &size);
-	p = (int*)malloc(size); //char p[5]
+	p = (int*)malloc(size); //if size is 5, int p[5]
 	printf("Enter the value of the elements: ");
 	int i;
 
